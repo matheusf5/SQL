@@ -41,7 +41,7 @@ A tabela **LIVROS** contém os seguintes campos:
 ✔ **Desafio:** Selecionar autores do sexo masculino com livros publicados em SP ou RJ  
 
 As queries completas estão no arquivo:  
-📄 [`Script.sql`](./SQL Livraria – Seleções e Filtros - Script.sql)  
+📄 [`Script.sql`](./SQL_Livraria_Seleções_e_Filtros_Script.sql)  
 *(Edite o nome do arquivo conforme o que subir no GitHub)*
 
 ---
@@ -49,7 +49,7 @@ As queries completas estão no arquivo:
 ## 📎 Arquivos incluídos
 
 - 📘 [`Problema.pdf`](./Problema.pdf) — Enunciado do exercício  
-- 🗂️ [`Script.sql`](./SQL_Livraria_Script.sql) — Criação da tabela, inserção dos dados e consultas  
+- 🗂️ [`Script.sql`](./SQL_Livraria_Seleções_e_Filtros_Script.sql) — Criação da tabela, inserção dos dados e consultas  
 *(Edite os links conforme o nome e caminho dos seus arquivos)*
 
 ---
