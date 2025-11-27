@@ -61,12 +61,5 @@ As queries completas estão no arquivo:
 
 ---
 
-Caso queira, posso:
 
-✔ Adicionar print das consultas ou resultado  
-✔ Colocar referência ao seu GitHub principal  
-✔ Traduzir palavras-chave para inglês se desejar internacionalizar  
-✔ Padronizar nomes dos arquivos automaticamente
-
-Quer que eu crie esse padrão para todos os próximos exercícios também? 😄
 
