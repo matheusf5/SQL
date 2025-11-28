@@ -32,5 +32,18 @@ Este diretório contém consultas SQL desenvolvidas para treinar filtragens cond
 ## 📌 Descrição dos Exercícios
 
 ### 1️⃣ Funcionários dos setores FILMES ou ROUPAS
-Primeiro é exibida a quantidade tot
+Primeiro é exibida a quantidade total de funcionários por departamento.  
+Depois, apenas os colaboradores destes dois setores são listados.
+
+### 2️⃣ Funcionárias dos setores FILMES ou LAR
+Solicitação do gestor de marketing para envio de e-mails.  
+A consulta mostra a contagem e depois lista das funcionárias com seus contatos.
+
+### 3️⃣ Funcionários Masculinos OU do setor JARDIM
+Qualquer funcionário do sexo masculino deve ser exibido.  
+Além disso, todos do setor JARDIM também devem aparecer, independentemente do sexo.
+
+---
+
+## 📂 Estrutura do Repositório
 
