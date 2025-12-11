@@ -23,7 +23,7 @@ Arquivo contendo todo o código SQL utilizado no exercício:
 - Relatórios com JOINs e filtros avançados  
 
 🔗 **Link para o Script:**  
-[CLIQUE AQUI PARA ABRIR O SCRIPT.SQL](LINK_DO_SCRIPT_AQUI)
+[CLIQUE AQUI PARA ABRIR O Script.SQL](LINK_DO_SCRIPT_AQUI)
 
 ---
 
@@ -36,7 +36,7 @@ Documento contendo:
 - **Sem respostas** — apenas documentação da atividade  
 
 🔗 **Link para o PDF:**  
-[CLIQUE AQUI PARA ABRIR O PROBLEMA.PDF](LINK_DO_PDF_AQUI)
+[CLIQUE AQUI PARA ABRIR O Problema.PDF](LINK_DO_PDF_AQUI)
 
 ---
 
