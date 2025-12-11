@@ -1,82 +1,11 @@
-📘 EXERCÍCIO 03 — CONSULTAS SQL, JOINS E RELATÓRIOS
+# **CONTEÚDO PRÁTICO**
 
-Este repositório contém a terceira atividade prática de Banco de Dados, abordando consultas SQL utilizando INNER JOIN, LEFT JOIN, filtros, atualização de registros e funções de agregação.
+Este repositório contém a resolução do problema descrito no arquivo **PROBLEMA.PDF**.  
+O objetivo deste projeto é aplicar conceitos fundamentais de programação para solucionar o desafio proposto.
 
-O exercício utiliza um banco de dados simulado de um comércio com as tabelas:
+---
 
-CLIENTE
+# **DESCRIÇÃO DO PROBLEMA**
 
-ENDERECO
-
-TELEFONE
-
-📄 ARQUIVOS DO REPOSITÓRIO
-1. SCRIPT.SQL
-
-Contém todo o código SQL utilizado no exercício:
-
-CRIAÇÃO DO BANCO DE DADOS
-
-CRIAÇÃO DAS TABELAS (DDL)
-
-INSERÇÃO DE DADOS (DML)
-
-ATUALIZAÇÕES
-
-CONSULTAS DOS EXERCÍCIOS
-
-RELATÓRIOS COM JOINS E FILTROS AVANÇADOS
-
-2. PROBLEMA.PDF
-
-Documento contendo:
-
-ENUNCIADO COMPLETO DOS EXERCÍCIOS
-
-ESTRUTURA DO BANCO (DDL)
-
-DESCRIÇÃO DAS TABELAS
-
-SEM RESPOSTAS — APENAS DOCUMENTAÇÃO DA ATIVIDADE
-
-🧠 CONTEÚDO PRÁTICO
-
-CRIAÇÃO DE TABELAS COM CHAVES PRIMÁRIAS E ESTRANGEIRAS
-
-INSERÇÃO E MANIPULAÇÃO DE DADOS
-
-ATUALIZAÇÃO DE REGISTROS INCORRETOS (UPDATE)
-
-CONSULTAS UTILIZANDO:
-
-INNER JOIN
-
-LEFT JOIN
-
-WHERE COM MÚLTIPLOS FILTROS
-
-GROUP BY
-
-COUNT()
-
-RELATÓRIOS ESPECÍFICOS PARA CENÁRIOS REAIS (MARKETING, ESTADOS, TELEFONES, FILTRAGENS)
-
-📝 EXERCÍCIOS RESOLVIDOS NO SCRIPT
-
-RELATÓRIO GERAL DE TODOS OS CLIENTES
-
-RELATÓRIO DE HOMENS
-
-RELATÓRIO DE MULHERES
-
-QUANTIDADE DE HOMENS E MULHERES
-
-IDS E E-MAILS DAS MULHERES QUE MORAM NO CENTRO DO RJ E NÃO TÊM CELULAR
-
-RELATÓRIOS PARA CAMPANHAS DE MARKETING COM PROJEÇÕES ESPECÍFICAS
-
-🔧 TECNOLOGIAS UTILIZADAS
-
-MYSQL
-
-EXECUÇÃO RECOMENDADA EM MYSQL WORKBENCH, XAMPP, WAMP OU QUALQUER SGBD COMPATÍVEL
+O enunciado completo do problema está disponível no arquivo **PROBLEMA.PDF** incluído neste repositório.  
+Nele, você encontrará todas as instruções e requisitos necessário
