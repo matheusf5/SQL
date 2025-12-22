@@ -36,13 +36,13 @@ projeto-sql-lopes/
 ## 📎 Arquivos do Projeto
 
 - 📄 **Script SQL completo do banco e exercícios**  
-  👉 [SCRIPT.sql](https://github.com/matheusf5/PROJETO_LOPES/blob/main/SCRIPT.sql)
+  👉 [SCRIPT.sql](https://github.com/matheusf5/SQL/blob/main/Exercicios/PROJETO_LOPES/SCRIPT.sql)
 
 - 🗺️ **DER – Diagrama Entidade-Relacionamento**  
-  👉 [DER.PNG](https://github.com/matheusf5/PROJETO_LOPES/blob/main/DER.PNG)
+  👉 [DER.PNG](https://github.com/matheusf5/SQL/blob/main/Exercicios/PROJETO_LOPES/DER.PNG)
 
 - 📘 **Enunciados dos Exercícios em PDF**  
-  👉 [Exercicios_SQL_Lopes.pdf](https://github.com/matheusf5/PROJETO_LOPES/blob/main/Exercicios_SQL_Lopes.pdf)
+  👉 [Exercicios_SQL_Lopes.pdf](https://github.com/matheusf5/SQL/blob/main/Exercicios/PROJETO_LOPES/Exercicios_SQL_Lopes.pdf)
 
 ## 🧪 Conteúdos Praticados
 
